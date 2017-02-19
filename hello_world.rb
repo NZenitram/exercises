@@ -12,4 +12,7 @@ require_relative 'hamming' class HelloWorldTest < Minitest::Test
   def test_other_sample_name
     assert_equal 'Hello, Bob!', HelloWorld.hello('Bob')
   end
+
+  def test
+  end
 end

@@ -13,6 +13,6 @@ require_relative 'hamming' class HelloWorldTest < Minitest::Test
     assert_equal 'Hello, Bob!', HelloWorld.hello('Bob')
   end
 
-  def noah_test_folder_hash
+  def noah_test_folder_hash_test  
   end
 end

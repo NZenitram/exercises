@@ -13,6 +13,6 @@ require_relative 'hamming' class HelloWorldTest < Minitest::Test
     assert_equal 'Hello, Bob!', HelloWorld.hello('Bob')
   end
 
-  def noah_test_folder_self_varilables_uri
+  def noah_test_folder_self_varilables_uri_rollback
   end
 end

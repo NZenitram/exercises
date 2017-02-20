@@ -13,6 +13,6 @@ require_relative 'hamming' class HelloWorldTest < Minitest::Test
     assert_equal 'Hello, Bob!', HelloWorld.hello('Bob')
   end
 
-  def not_again 
+  def not_again_2
   end
 end

@@ -13,6 +13,10 @@ require_relative 'hamming' class HelloWorldTest < Minitest::Test
     assert_equal 'Hello, Bob!', HelloWorld.hello('Bob')
   end
 
-  def update_and_save_again_2_pry 
+  def update_and_save_again_2_pry
+  end
+
+  def new
+
   end
 end

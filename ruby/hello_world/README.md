@@ -6,4 +6,4 @@ Pry
 
 Update with other thing
 
-No implicit WTF
+No implicit broken API 
